@@ -1,2 +1,2 @@
-# bynder_assignment
-Repository for Bynder Assignment
+# b_assignment
+Repository for B Assignment
